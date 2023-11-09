@@ -26,9 +26,10 @@ from Jan 2023 - July 2023 · 7 months
 ### Projects 
 * Stable Diffusion Products
 ![Some Stable Diffusion Products by Me](assets/00016-4236491419.png)
+![Some Stable Diffusion Products by Me](assets/00004-342733197.png)
+![Some Stable Diffusion Products by Me](assets/00010-2598457077.png)
 
 * Warpfusion Products
-
 * DeepSpeech Products
 * Adobe Firefly Products
 * Unity Game Demo
