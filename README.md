@@ -25,7 +25,7 @@ from Jan 2023 - July 2023 · 7 months
 
 ### Projects 
 * Stable Diffusion Products
-
+<img src='assets/00016-4236491419.png' width='25'>
 ![Some Stable Diffusion Products by Me](assets/00016-4236491419.png | width=100)
 ![Some Stable Diffusion Products by Me](assets/00004-342733197.png | width=100)
 ![Some Stable Diffusion Products by Me](assets/00010-2598457077.png | width=100)
