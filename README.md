@@ -24,7 +24,9 @@ from Jan 2023 - July 2023 · 7 months
 - Unity
 
 ### Projects 
-* Stable diffusion Products
+* Stable Diffusion Products
+![Some Stable Diffusion Products by Me](assets/00016-4236491419.png)
+
 * Warpfusion Products
 
 * DeepSpeech Products
