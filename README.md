@@ -15,7 +15,7 @@ from Jan 2023 - July 2023 · 7 months
 - Native Turkish
 - Microsoft Docs, Excel, PowerPoint
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
-  <h1 style="font-size: 5px;">Stable Diffusion</h1>
+  <h1 style="font-size: 16px;">Stable Diffusion</h1>
   <p>I specialize in generating high-quality, creative visual content. My expertise lies in fine-tuning this AI-driven tool to produce diverse and complex images that are tailored to specific project needs. My proficiency in this technology enables me to leverage its capabilities for innovative image creation and manipulation.</p>
 </div>
 - DALL-E
