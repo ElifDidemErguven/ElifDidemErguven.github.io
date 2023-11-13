@@ -15,8 +15,9 @@ from Jan 2023 - July 2023 · 7 months
 - Native Turkish
 - Microsoft Docs, Excel, PowerPoint
 - Stable Diffusion
-  I specialize in generating high-quality, creative visual content. My expertise lies in fine-tuning this AI-driven tool to produce diverse and complex images that are tailored to specific project needs. My proficiency in this technology enables me to leverage its capabilities for innovative image creation and manipulation.
-  
+- <div>
+   I specialize in generating high-quality, creative visual content. My expertise lies in fine-tuning this AI-driven tool to produce diverse and complex images that are tailored to specific project needs. My proficiency in this technology enables me to leverage its capabilities for innovative image creation and manipulation.
+</div>
 - DALL-E
 - Warpfusion
 - DeepSpeech
@@ -28,19 +29,20 @@ from Jan 2023 - July 2023 · 7 months
 
 ### Projects 
 * Stable Diffusion Products
-<p align="center">
+  <div>
   <img src='assets/00016-4236491419.png' width='250'>
-</p>
-<p align="center">
+</div>
+<div>
   <img src='assets/00004-342733197.png' width='350'>
-</p>
-<p align="center">
-  <img src='assets/00010-2598457077.png' width='350'> 
-</p>
+</div>
+<div>
+  <img src='assets/00010-2598457077.png' width='350'>
+</div>
+
 DALL-E Products
-<p align="center">
+<div>
   <img src='assets/DALL·E 2023-11-13 13.03.00 - Create a professional-looking advertisement for an online second-hand item seller website suitable for use on Google and YouTube. The design should be.png' width='250'>
-</p>
+</div>
 * Warpfusion Products
 * DeepSpeech Products
 * Adobe Firefly Products
