@@ -18,15 +18,18 @@ from Jan 2023 - July 2023 · 7 months
   <h1 style="font-size: 18px;">Stable Diffusion</h1>
   <p>I specialize in generating high-quality, creative visual content. My expertise lies in fine-tuning this AI-driven tool to produce diverse and complex images that are tailored to specific project needs. My proficiency in this technology enables me to leverage its capabilities for innovative image creation and manipulation.</p>
 </div>
-- DALL-E
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
   <h1 style="font-size: 18px;">Warpfusion</h1>
   <p>Using Warpfusion, I can skillfully manipulate videos to produce coherent AI videos with amazing and eye-catching visual outputs. I can efficiently execute complex video transformations, and enhance the storytelling of any project. </p>
 </div>
+- DALL-E
 - DeepSpeech
-- ChatGPT
+- ChatGPT 4
 - Adobe Firefly
-- Adobe Premier Pro
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+  <h1 style="font-size: 18px;">Adobe Premier Pro</h1>
+  <p>As a proficient user of Adobe Premier Pro, I focus on the precision editing of video content to produce narratives that are both clear and compelling. </p>
+</div>
 - Adobe Photoshop
 - Unity
 
