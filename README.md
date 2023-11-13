@@ -19,7 +19,10 @@ from Jan 2023 - July 2023 · 7 months
   <p>I specialize in generating high-quality, creative visual content. My expertise lies in fine-tuning this AI-driven tool to produce diverse and complex images that are tailored to specific project needs. My proficiency in this technology enables me to leverage its capabilities for innovative image creation and manipulation.</p>
 </div>
 - DALL-E
-- Warpfusion
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+  <h1 style="font-size: 18px;">Warpfusion</h1>
+  <p>Using Warpfusion, I can skillfully manipulate videos to produce coherent AI videos with amazing and eye-catching visual outputs. I can efficiently execute complex video transformations, and enhance the storytelling of any project. </p>
+</div>
 - DeepSpeech
 - ChatGPT
 - Adobe Firefly
@@ -29,7 +32,7 @@ from Jan 2023 - July 2023 · 7 months
 
 ### Projects 
 * Stable Diffusion Products
-  <div>
+<div>
   <img src='assets/00016-4236491419.png' width='500'>
 </div>
 <div>
@@ -39,7 +42,7 @@ from Jan 2023 - July 2023 · 7 months
   <img src='assets/00010-2598457077.png' width='500'>
 </div>
 
-DALL-E Products
+* DALL-E Products
 <div>
   <img src='assets/DALL·E 2023-11-13 13.03.00 - Create a professional-looking advertisement for an online second-hand item seller website suitable for use on Google and YouTube. The design should be.png' width='500'>
 </div>
