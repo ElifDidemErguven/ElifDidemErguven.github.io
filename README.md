@@ -98,7 +98,15 @@ from Jan 2023 - July 2023 · 7 months
         <iframe width="560" height="315" src="https://drive.google.com/file/d/1zXK55CDi_WcecoClbqznEuwvYhcerCL0/preview" allowfullscreen></iframe>
     </div>
 </div>
-
+<div>
+  <div class="video-container">
+   <div class="video">
+          <iframe width="560" height="315" src="https://drive.google.com/file/d/1b8hxTND1hRKxzsZjJzwhFra6NfmnJzPb/preview" allowfullscreen></iframe>
+  </div>
+  <div class="video">
+        <iframe width="560" height="315" src="https://drive.google.com/file/d/1d30YdxaF2alYrPNB1iZdAVzRIWZjojJW/preview" allowfullscreen></iframe>
+    </div>
+</div>
 
 
 <p>* DeepSpeech Products
