@@ -56,6 +56,7 @@ from Jan 2023 - July 2023 · 7 months
         .video-container {
             display: flex;
             justify-content: space-around;
+            align-items: center;
         }
 
         .video {
