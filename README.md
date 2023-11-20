@@ -50,8 +50,6 @@ from Jan 2023 - July 2023 · 7 months
   <img src='assets/DALL·E 2023-11-13 13.03.00 - Create a professional-looking advertisement for an online second-hand item seller website suitable for use on Google and YouTube. The design should be.png' width='500'>
 </div>
 * Warpfusion Products
-</p>
-<!DOCTYPE html>
 <html>
 <head>
     <style>
