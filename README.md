@@ -50,19 +50,39 @@ from Jan 2023 - July 2023 · 7 months
   <img src='assets/DALL·E 2023-11-13 13.03.00 - Create a professional-looking advertisement for an online second-hand item seller website suitable for use on Google and YouTube. The design should be.png' width='500'>
 </div>
 * Warpfusion Products
+</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .video-container {
+            display: flex;
+            justify-content: space-around;
+        }
 
-</p>
-<iframe src="https://drive.google.com/file/d/1yBWHsI77YhPPnMk7vwjdcsD8wScZB36s/preview" width="640" height="480" allow="autoplay"></iframe>
-</p>
+        .video {
+            margin: 10px;
+        }
+
+        iframe {
+            border: none;
+        }
+    </style>
+</head>
+<body>
 
 <div class="video-container">
     <div class="video">
-        <iframe src="https://drive.google.com/file/d/1yBWHsI77YhPPnMk7vwjdcsD8wScZB36s/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe width="560" height="315" src="https://drive.google.com/file/d/1yBWHsI77YhPPnMk7vwjdcsD8wScZB36s/preview" allowfullscreen></iframe>
     </div>
     <div class="video">
-        <iframe src="https://drive.google.com/file/d/1yBWHsI77YhPPnMk7vwjdcsD8wScZB36s/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe width="560" height="315" src="https://drive.google.com/file/d/1p2Px4j_0SHvNTk41hvMiRUWtQ0RutzIR/preview" allowfullscreen></iframe>
     </div>
 </div>
+
+</body>
+</html>
+
 
 
 * DeepSpeech Products
