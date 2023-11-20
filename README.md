@@ -101,6 +101,6 @@ from Jan 2023 - July 2023 · 7 months
 
 
 
-* DeepSpeech Products
-* Adobe Firefly Products
-* Unity Game Demo
+<p>* DeepSpeech Products
+<p>* Adobe Firefly Products
+<p>* Unity Game Demo
