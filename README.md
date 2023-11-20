@@ -77,7 +77,8 @@ from Jan 2023 - July 2023 · 7 months
     <div class="video">
         <iframe width="560" height="315" src="https://drive.google.com/file/d/1p2Px4j_0SHvNTk41hvMiRUWtQ0RutzIR/preview" allowfullscreen></iframe>
     </div>
-    <div class="video">
+</p>
+<div class="video">
         <iframe width="560" height="315" src="https://drive.google.com/file/d/1yBWHsI77YhPPnMk7vwjdcsD8wScZB36s/preview" allowfullscreen></iframe>
     </div>
     <div class="video">
