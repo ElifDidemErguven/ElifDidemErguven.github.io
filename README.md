@@ -51,7 +51,8 @@ from Jan 2023 - July 2023 · 7 months
 </div>
 * Warpfusion Products
 <p align="center">
-  <iframe width="560" height="315" src="https://youtube.com/shorts/P_BkltkGXFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <video src="https://drive.google.com/file/d/1yBWHsI77YhPPnMk7vwjdcsD8wScZB36s/view?usp=sharing" controls="controls" style="max-width: 730px;">
+</video>
 </p>
 
 
