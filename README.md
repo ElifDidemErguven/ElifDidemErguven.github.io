@@ -37,7 +37,9 @@ from Jan 2023 - July 2023 · 7 months
 * Stable Diffusion Products
 <div>
   <img src='assets/00016-4236491419.png' width='500'>
-  <p>With Stable Diffusion, I created a cyberpunk character reference for a game idea with tools like text-to-image generation and inpaint tool to further modify the parts of the image by hand as requested. With the various LORAs used, I gave even more details to the picture. </p>
+    </div>
+      <p>With Stable Diffusion, I created a cyberpunk character reference for a game idea with tools like text-to-image generation and inpaint tool to further modify the parts of the image by hand as requested. With the various LORAs used, I gave even more details to           the picture. </p>
+    </div>
 </div>
 <div>
   <img src='assets/00004-342733197.png' width='500'>
