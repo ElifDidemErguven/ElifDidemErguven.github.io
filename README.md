@@ -53,11 +53,10 @@ from Jan 2023 - July 2023 · 7 months
 <div>
   <img src='assets/DALL·E 2023-11-13 13.03.00 - Create a professional-looking advertisement for an online second-hand item seller website suitable for use on Google and YouTube. The design should be.png' width='500'>
 </div>
-</div>
 
 * DEUS Products
 <div>
-  <img src='assets/Screenshot 2023-12-04 165007.png' width='500'>
+  <img src='assets/Screenshot 2023-12-04 165007.png' width='1000'>
 </div>
 
 * Warpfusion Products
