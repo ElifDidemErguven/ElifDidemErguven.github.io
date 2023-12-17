@@ -24,7 +24,10 @@ from Jan 2023 - July 2023 · 7 months
 </div>
 - DALL-E
 - DEUS
--RVC
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+  <h1 style="font-size: 18px;">RVC - Retrieval based Voice Conversion</h1>
+  <p>Using RVC, I can professionally use anyone's voice samples and use them for the training required to produce the voice model. With the produced voice model I can turn their speech to other languages from their voice, allow them to sing songs, or edit their speech for any misspoken words. </p>
+</div>
 - ChatGPT 4
 - Adobe Firefly
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
