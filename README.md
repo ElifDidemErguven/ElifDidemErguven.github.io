@@ -21,16 +21,18 @@ from Jan 2023 - July 2023 · 7 months
 ### Skills
 - C1 English
 - Native Turkish
+- Unity
+- Unreal Engine
 - Microsoft Docs, Excel, PowerPoint
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
   <h1 style="font-size: 18px;">Stable Diffusion</h1>
-  <p>My area of expertise is producing imaginative, high-quality visualizations. My expertise is optimizing this AI-powered technology to generate intricate and varied graphics that are suited for specific project requirements. My expertise with this technology allows me to take advantage of its potential for creative image production and manipulation.</p>
+  <p>With my area of expertise in Stable Diffusion, I excel in producing imaginative, high-quality visualizations. I am well able to use this AI-powered technology to generate intricate and varied graphics that are suited for specific project requirements. I can use this technology to take advantage of its potential for creative image production and manipulation.</p>
 </div>
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
   <h1 style="font-size: 18px;">Warpfusion</h1>
   <p>I am equipped to skillfully customize videos with Warpfusion to create visually stunning and coherent AI videos. I can effectively carry out intricate video effects and improve any project's narrative. </p>
 </div>
-- DALL-E
+- DALL-E I can use my general knowledge and expertise to expertly handle and use any image generation AI just like DALL-E. 
 - DEUS
 <div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
   <h1 style="font-size: 18px;">RVC - Retrieval based Voice Conversion</h1>
