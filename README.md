@@ -67,11 +67,11 @@ from Jan 2023 - July 2023 · 7 months
   <img src='assets/DALL·E 2023-11-13 13.03.00 - Create a professional-looking advertisement for an online second-hand item seller website suitable for use on Google and YouTube. The design should be.png' width='500'>
 </div>
 
-* DEUS Products
-<div>
-  <img src='assets/Screenshot 2023-12-04 165007.png' width='1000'>
-</div>
-
+<p>* Unity Game Demo
+<div class="video">
+        <iframe width="560" height="315" src="https://drive.google.com/file/d/1hPQN_L1OSCa94iwLqXArqrXaY8fsj3ma/view?usp=sharing" allowfullscreen></iframe>
+    </div>
+  
 * Warpfusion Products
 <html>
 <head>
@@ -130,8 +130,10 @@ from Jan 2023 - July 2023 · 7 months
         <iframe width="560" height="315" src="https://drive.google.com/file/d/1d30YdxaF2alYrPNB1iZdAVzRIWZjojJW/preview" allowfullscreen></iframe>
     </div>
 </div>
-
+* DEUS Products
+<div>
+  <img src='assets/Screenshot 2023-12-04 165007.png' width='1000'>
+</div>
 
 <p>* DeepSpeech Products
-<p>* Adobe Firefly Products
-<p>* Unity Game Demo
+
