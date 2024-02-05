@@ -4,6 +4,14 @@ elifdidemerguven.github.io
 ### Designer and AI Specialist 
 Game Designer and Developer, AI Tools Specialist
 
+### Education
+-Undergraduate Studies, Genetics
+  •	Acıbadem University, Sep 2019 - Mar 2021
+-  Bachelor of Fine Arts - BFA, Computer Games and Programming Skills
+  •	Academy of Art University, Jul 2020 - Dec 2021
+-  Bachelor of Computer Software Engineering
+  •	 Bahçeşehir University, Mar 2021 - On Going
+
 ### Work Experience 
 - Product Intern at Colendi
 from July 2022 - Dec 2022 · 6 months
